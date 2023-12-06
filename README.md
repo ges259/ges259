@@ -10,7 +10,7 @@ ___
 ### 프로젝트
 * [오늘 기록](https://apps.apple.com/us/app/오늘-기록/id6472850130)이라는 앱을 만들어 앱스토어에 출시한 경험이 있습니다.
 
-더 자세한 내용은 [한국어 프로필](https://resolute-gambler-cc8.notion.site/iOS-___-9f34ee1825a64e738523c4fc1b7f9eba?pvs=4)을 확인해 주세요!
+* 더 자세한 내용은 [한국어 프로필](https://resolute-gambler-cc8.notion.site/iOS-___-9f34ee1825a64e738523c4fc1b7f9eba?pvs=4)을 확인해 주세요!
 
 ___
 * 이메일: chwl0571@daum.net
